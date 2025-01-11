@@ -1,13 +1,12 @@
 {
-  "name": "random-user",
+  "name": "frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1",
-    "zustand": "^5.0.3"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,9 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@shopify/prettier-config": "^1.1.2",
-    "prettier": "@shopify/prettier-config"
   }
 }
